@@ -1,4 +1,4 @@
-# Day 4 - Implement Full CRUD
+ Implement Full CRUD
 
 ## Objective
 Implement a complete CRUD API for the primary resource.
